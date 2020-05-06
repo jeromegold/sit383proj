@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc492cbd2e7d0884c84d233fc07553d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - status: {fileID: 6166849868817432713, guid: 5cc1ab0c3f6b86b45b4bd85ce804bbf6,
+      type: 3}
+  - microphoneIndicator: {fileID: 493298779827421128, guid: 52d19141f28e1ab4a98fc6b5bb31485c,
+      type: 3}
+  - microphoneOn: {fileID: 2100000, guid: b77661cfd90461040acc273379ae31ac, type: 2}
+  - microphoneOff: {fileID: 2100000, guid: b7f847edde0156c4dae730ea6fac93d1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

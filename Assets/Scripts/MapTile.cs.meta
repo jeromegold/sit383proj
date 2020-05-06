@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4dce654018e6ae146a16abbe653e7d5e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - statusText: {fileID: 17831124845935609, guid: decafb1a0fcc3d24190f703068f9e1dd,
+      type: 3}
+  - mapMaterial: {fileID: 2100000, guid: db6db2fd324ed124f8d3eed46c82f123, type: 2}
+  - marker: {fileID: 2445875652409211179, guid: c087b19719dfd0040bf80a69d7bbc107,
+      type: 3}
+  - mapPlane: {fileID: 535691701651138062, guid: bd9766a2bdb815b4581f30cf2acee41b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871681604563",
+    "firebase_url": "https://front-a5b62.firebaseio.com",
+    "project_id": "front-a5b62",
+    "storage_bucket": "front-a5b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871681604563:android:216f7ce43d341c0258cd26",
+        "android_client_info": {
+          "package_name": "com.jm.bus.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871681604563-6ofj2psj0cfi3r4gdenc35r74lhkuucp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdg-YgFm4sCbjdjj8kR4aSksXROYDERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871681604563-6ofj2psj0cfi3r4gdenc35r74lhkuucp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
